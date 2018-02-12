@@ -1,4 +1,5 @@
 # python_game_inventory
 
-This you your assignment, for details see the Canvas page and gameInventory.py.
-You will only need to edit gameInventory.py! (and can create new files, for example sample .csv data)
+Import data (string) from CSV, add to list and then to dictionary. 
+Print inventory unordered, descending order or ascending order - depend on user. 
+Export data to CSV. 
